@@ -2,3 +2,6 @@ Hola
 me gustaria saber como creen que voy
 Yo creo que voy bastante bien
 Pero a veces me cuesta todo esto
+Lo unico que no entiendo es porque cuando quiero modificar 
+directamente, tengo que cerrar y guardar
+Quisiera que me apareciera que modifique desde el primer momento
